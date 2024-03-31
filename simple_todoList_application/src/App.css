@@ -7,7 +7,7 @@
 }
 
 body{
-  background: rgb(7, 32, 58);
+  background: rgb(231, 98, 21);
 }
 .h-500{
   height: 500px;
@@ -26,7 +26,7 @@ body{
   left: 28px;
   border-radius: 50%;
   border: 16px solid #000;
-  border-color: #e15b64 transparent #e15b64 transparent;
+  border-color: #f04e1d transparent #f04e1d transparent;
   animation: ldio-66uw7ivcag8 1s linear infinite;
 }
 
@@ -55,14 +55,14 @@ body{
   height: 16px;
   top: -16px;
   left: 48px;
-  background: #e15b64;
+  background: #f04e1d;
   border-radius: 50%;
-  box-shadow: 0 128px 0 0 #e15b64;
+  box-shadow: 0 128px 0 0 #f04e1d;
 }
 .ldio-66uw7ivcag8 > div:nth-child(3) div:after {
   left: -16px;
   top: 48px;
-  box-shadow: 128px 0 0 0 #e15b64;
+  box-shadow: 128px 0 0 0 #f04e1d;
 }
 
 .ldio-66uw7ivcag8 > div:nth-child(4) { border-color: transparent; }
